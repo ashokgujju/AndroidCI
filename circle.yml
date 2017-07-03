@@ -8,7 +8,7 @@ general:
 
 machine:
     environment:
-        ANDROID_HOME: /home/ib/Android/android-sdk-linux
+        ANDROID_HOME:  /usr/local/android-sdk-linux
 
 
 dependencies:
